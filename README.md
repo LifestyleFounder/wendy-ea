@@ -1,5 +1,21 @@
 # Wendy EA — Your AI Executive Assistant
 
+> **Came from the workshop? You're in the right place.**
+> Run these three commands in Claude Code and Wendy is yours:
+>
+> ```
+> /plugin marketplace add LifestyleFounder/wendy-ea
+> /plugin install wendy-ea
+> /wendy-ea:onboard
+> ```
+>
+> She'll interview you for ~8 minutes — then she knows your business, your voice, your schedule, and your tools.
+> No more generic AI. Your assistant, fully customized.
+
+---
+
+## What is Wendy?
+
 A Claude Code plugin that gives you a personalized executive assistant in 10 minutes.
 
 Wendy reads your inbox, runs your morning briefing, summarizes anything, and drafts replies in your voice. She knows your business, your audience, your schedule, and your tools — because the first thing she does is interview you about all of it.
